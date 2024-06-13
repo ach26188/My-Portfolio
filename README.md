@@ -15,10 +15,6 @@ Seeking an entry-level position to apply my skills and knowledge in the field of
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
@@ -37,9 +33,7 @@ Seeking an entry-level position to apply my skills and knowledge in the field of
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ### Cloud
@@ -48,5 +42,6 @@ Seeking an entry-level position to apply my skills and knowledge in the field of
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SIEM Splunk Project
+- LAMP Stack Project
+- Raspberry Pi VPN Project
