@@ -13,8 +13,9 @@ Seeking an entry-level position to apply my skills and knowledge in the field of
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">SIEM Splunk Project</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">SIEM Splunk Project</a>|
+| Networking, Linux and Firewall | <a href="https://google.com"> Raspberry Pi VPN Project</a>|
 
 ## Tools
 
