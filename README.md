@@ -12,8 +12,8 @@ Seeking an entry-level position to apply my skills and knowledge in the field of
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com"> MS Sentinel Project</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">MS SentinelProject</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com"> MS Azure Sentinel Project</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">MS Azure Sentinel Project</a>|
 | Networking, Linux, Firewall, Router, and VPN | <a href="https://medium.com/@alexho10.net/wireguard-raspberry-pi-project-fb7dca472606"> WireGuard Raspberry Pi Project</a>|
 
 ## Tools
@@ -30,4 +30,4 @@ Seeking an entry-level position to apply my skills and knowledge in the field of
 
 ## Projects
 - WireGuard Raspberry Pi Project
-- MS Sentinel SIEM Honeypot Project
+- MS Azure Sentinel SIEM Project
