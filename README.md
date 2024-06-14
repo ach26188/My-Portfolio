@@ -37,3 +37,4 @@ Seeking an entry-level position to apply my skills and knowledge in the field of
 - SIEM Splunk Project
 - LAMP Stack Project
 - WireGuard Raspberry Pi Project
+- MS Sentinel SIEM Honeypot Project
