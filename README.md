@@ -24,7 +24,7 @@ Seeking an entry-level position to apply my skills and knowledge in the field of
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
-</div>
+
 
 ## Projects
 - WireGuard Raspberry Pi Project
