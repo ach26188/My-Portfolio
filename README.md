@@ -8,6 +8,8 @@ I am a recent graduate at George Mason University with a Bachelors of Cybersecur
 
 Seeking an entry-level position to apply my skills and knowledge in the field of Cybersecurity and Information Technology.
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/dawnalex.png" alt="TryHackMe">
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -22,10 +24,6 @@ Seeking an entry-level position to apply my skills and knowledge in the field of
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
-
-### Cloud
-<div>
-    <img src="https://img.shields.io/badge/-Amazon_AWS_Security-232F3E?&style=for-the-badge&logo=Amazon+AWS&logoColor=FF9900" />
 </div>
 
 ## Projects
