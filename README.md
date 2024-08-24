@@ -1,13 +1,19 @@
 <a href="https://www.linkedin.com/in/alexanderho2022/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 # Hello, I'm Alexander Ho
 
-
-I am a recent graduate at George Mason University with a Bachelors of Cybersecurity.
+I have completed my undergraduate studies with a Bachelor's in Cybersecurity at George Mason University. I have a passion for cybersecurity and am excited to begin my career. I recently completed my CompTIA Security+ certification and learned concepts such as network security, information security, and cybersecurity fundamentals. This portfolio shows the skills, projects, tools, and certifications that I have completed on my cybersecurity journey. 
 
 ## Objective
 
-Seeking an entry-level position to apply my skills and knowledge in the field of Cybersecurity and Information Technology.
+Seeking a SOC Analyst position to apply my skills and knowledge in the field of Cybersecurity and Information Technology.
 
+## Certificaiton Badge 
+<div>
+    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-DC3D24?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" href="https://www.credly.com/badges/baf51eb8-5801-4a8e-b36d-a8da1faa8e7d/public_url"/>
+</div>
+
+
+## TryHackMe Badge
 <img src="https://tryhackme-badges.s3.amazonaws.com/dawnalex.png" alt="TryHackMe">
 
 ## Skills
