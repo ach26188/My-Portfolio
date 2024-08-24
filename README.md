@@ -9,8 +9,11 @@ Seeking a SOC Analyst position to apply my skills and knowledge in the field of 
 
 ## Certificaiton Badge 
 <div>
-    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-DC3D24?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" href="https://www.credly.com/badges/baf51eb8-5801-4a8e-b36d-a8da1faa8e7d/public_url"/>
+    <a href="https://www.credly.com/badges/baf51eb8-5801-4a8e-b36d-a8da1faa8e7d/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-DC3D24?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge"/>
+    </a>
 </div>
+
 
 
 ## TryHackMe Badge
