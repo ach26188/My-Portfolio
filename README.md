@@ -7,7 +7,7 @@ I have completed my undergraduate studies with a Bachelor's in Cybersecurity at 
 
 Seeking a SOC Analyst position to apply my skills and knowledge in the field of Cybersecurity and Information Technology.
 
-## Certificaiton Badge 
+## Certifications 
 <div>
     <a href="https://www.credly.com/badges/baf51eb8-5801-4a8e-b36d-a8da1faa8e7d/public_url" target="_blank">
         <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-DC3D24?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge"/>
