@@ -1,9 +1,6 @@
 <a href="https://www.linkedin.com/in/alexanderho2022/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <h1>Alexander Ho</h1>
 
-
-I have completed my undergraduate studies with a Bachelor's in Cybersecurity at George Mason University. I have a passion for cybersecurity and am excited to begin my career. I recently completed my CompTIA Security+ certification and learned concepts such as network security, information security, and cybersecurity fundamentals. This portfolio shows the skills, projects, tools, and certifications that I have completed on my cybersecurity journey. 
-
 ## Technical Skills
 
 | Technical Skills                                         | Associated Project/Labs        |
