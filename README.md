@@ -9,7 +9,7 @@
 | Network Traffic Analysis, Endpoint Log Analysis/Event Correlation | <a href="https://medium.com/@alexho10.net/tryhackme-tempest-write-up-0170acf2a493"> TryHackMe Tempest Lab</a>|
 | Networking, Linux, Firewall, Router, and VPN | <a href="https://medium.com/@alexho10.net/wireguard-raspberry-pi-project-fb7dca472606"> WireGuard Raspberry Pi Project</a>|
 | Splunk Query Language (SPL), Log Analysis, Event Correlation & Incident Response | <a href="https://medium.com/@alexho10.net/boss-of-the-soc-v1-2015-web-site-defacement-686b799b5f95"> Boss of the SOC Splunk CTF </a>|
-| Vulnerability Assessment & Penetration Testing | <a href="https://github.com/ach26188/nessusmetasploitproject/tree/main"> Threat and Vulnerability Analysis Project </a>| 
+| Vulnerability Assessment & Penetration Testing | <a href="https://github.com/ach26188/nessusmetasploitproject/tree/main"> Metasploit Penetration Testing </a>| 
 | Threat Detection, Log Analysis, SIEM Implementation, Linux, Powershell | <a href="https://github.com/ach26188/socautomationlab"> SOC Automation Project </a>|
 
 ## Certifications 
@@ -23,7 +23,7 @@
 - MS Azure Sentinel Project
 - TryHackMe Tempest Lab
 - Boss of the SOC Splunk CTF lab
-- Metasploit Pentetration Testing Project
+- Metasploit Penetration Testing
 - SOC Automation Project
 
 ## TryHackMe Badge
