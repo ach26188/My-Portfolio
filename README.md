@@ -10,6 +10,7 @@
 | Networking, Linux, Firewall, Router, and VPN | <a href="https://medium.com/@alexho10.net/wireguard-raspberry-pi-project-fb7dca472606"> WireGuard Raspberry Pi Project</a>|
 | Splunk Query Language (SPL), Log Analysis, Event Correlation & Incident Response | <a href="https://medium.com/@alexho10.net/boss-of-the-soc-v1-2015-web-site-defacement-686b799b5f95"> Boss of the SOC Splunk CTF </a>|
 | Vulnerability Assessment & Penetration Testing | <a href="https://github.com/ach26188/nessusmetasploitproject/tree/main"> Threat and Vulnerability Analysis Project </a>| 
+| Threat Detection, Log Analysis, SIEM Implementation, Linux, Powershell | <a href="https://github.com/ach26188/socautomationlab"> SOC Automation Project </a>|
 
 ## Certifications 
 <div>
@@ -18,7 +19,12 @@
     </a>
 </div>
 
-
+## Projects/Labs
+- MS Azure Sentinel Project
+- TryHackMe Tempest Lab
+- Boss of the SOC Splunk CTF lab
+- Metasploit Pentetration Testing Project
+- SOC Automation Project
 
 ## TryHackMe Badge
 <img src="https://tryhackme-badges.s3.amazonaws.com/dawnalex.png" alt="TryHackMe">
